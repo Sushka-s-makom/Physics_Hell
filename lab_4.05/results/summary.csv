@@ -1,0 +1,2 @@
+lambda_mean_raw_nm,lambda_conf_raw_nm,lambda_rel_error_to_tab_percent,lambda_tab_nm_used_for_bandwidth,L_coh_mean_um,L_coh_conf_um,tau_coh_fs,delta_lambda_nm,delta_lambda_unc_nm,delta_nu_THz,delta_nu_unc_THz,laser_min_coherence_um
+16.830357142857146,15.331917709332009,96.91751700680273,546.0,3.7833333333333337,1.2030094573609968,12.61984160166342,78.79718061674008,25.05561766396148,79.24029726872246,25.19651815463521,3.1999999999999993
